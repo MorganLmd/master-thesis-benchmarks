@@ -213,6 +213,13 @@ function processData(fullExecutionData) {
     filteredData.length /
     MICROWATT_TO_WATT;
 
+  console.log(
+    JSON.stringify({
+      pid: filteredData[0].pid,
+      consumption: filteredData.map((dat) => dat.processConsumption),
+    })
+  );
+
   // Calculte the max Watt collected for the process and get its index
   // divide by 1000000 to convert microwatt to watt
   let maxConsumption = filteredData[0].processConsumption;

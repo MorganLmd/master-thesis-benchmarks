@@ -202,6 +202,13 @@ function processData(fullExecutionData) {
     })
     .filter((arguments) => arguments.pid > 0); // Filter all the non java process (pid set to 0)
 
+  console.log(
+    JSON.stringify({
+      pid: filteredData[0].pid,
+      consumption: filteredData.map((dat) => dat.processConsumption),
+    })
+  );
+
   // We sum the total of microwatt measured, we divide by the length of the arry to find
   // the average microwatt consumed and we divide the result by 1000000 to convert to Watt
   const averageConsumption =
