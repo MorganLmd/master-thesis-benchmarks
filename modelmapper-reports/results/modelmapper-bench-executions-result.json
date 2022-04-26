@@ -1,0 +1,182 @@
+[
+  {
+    "pid": 27684,
+    "averageWattConsumption": 11.996954306818182,
+    "maxWattConsumtion": 15.733511,
+    "maxWattPositionIndex": 21,
+    "totalProcessIstantFound": 88,
+    "totalTime": 10.214856386184692,
+    "joules": 122.54716531576766
+  },
+  {
+    "pid": 27847,
+    "averageWattConsumption": 11.736657494382023,
+    "maxWattConsumtion": 15.024137,
+    "maxWattPositionIndex": 2,
+    "totalProcessIstantFound": 89,
+    "totalTime": 10.552879333496094,
+    "joules": 123.85553031678609
+  },
+  {
+    "pid": 28006,
+    "averageWattConsumption": 11.864024445783132,
+    "maxWattConsumtion": 15.226292,
+    "maxWattPositionIndex": 15,
+    "totalProcessIstantFound": 83,
+    "totalTime": 9.67273736000061,
+    "joules": 114.75759249668704
+  },
+  {
+    "pid": 28162,
+    "averageWattConsumption": 12.066584521276596,
+    "maxWattConsumtion": 15.388104,
+    "maxWattPositionIndex": 11,
+    "totalProcessIstantFound": 94,
+    "totalTime": 10.911201238632202,
+    "joules": 131.66093197461336
+  },
+  {
+    "pid": 28315,
+    "averageWattConsumption": 11.631362333333334,
+    "maxWattConsumtion": 15.150275,
+    "maxWattPositionIndex": 16,
+    "totalProcessIstantFound": 90,
+    "totalTime": 10.66582703590393,
+    "joules": 124.05809883926129
+  },
+  {
+    "pid": 28480,
+    "averageWattConsumption": 11.72726854117647,
+    "maxWattConsumtion": 15.400414,
+    "maxWattPositionIndex": 16,
+    "totalProcessIstantFound": 85,
+    "totalTime": 10.075427532196045,
+    "joules": 118.15724433722595
+  },
+  {
+    "pid": 28636,
+    "averageWattConsumption": 11.843836132530122,
+    "maxWattConsumtion": 15.502728,
+    "maxWattPositionIndex": 2,
+    "totalProcessIstantFound": 83,
+    "totalTime": 9.747833728790283,
+    "joules": 115.45174533094219
+  },
+  {
+    "pid": 28799,
+    "averageWattConsumption": 11.947988209302325,
+    "maxWattConsumtion": 15.019185,
+    "maxWattPositionIndex": 2,
+    "totalProcessIstantFound": 86,
+    "totalTime": 10.027515649795532,
+    "joules": 119.80863875235157
+  },
+  {
+    "pid": 28962,
+    "averageWattConsumption": 11.975167505747127,
+    "maxWattConsumtion": 15.18514,
+    "maxWattPositionIndex": 20,
+    "totalProcessIstantFound": 87,
+    "totalTime": 10.223171949386597,
+    "joules": 122.42419653395989
+  },
+  {
+    "pid": 29123,
+    "averageWattConsumption": 11.902406670731706,
+    "maxWattConsumtion": 15.286027,
+    "maxWattPositionIndex": 11,
+    "totalProcessIstantFound": 82,
+    "totalTime": 9.461580991744995,
+    "joules": 112.61558471181394
+  },
+  {
+    "pid": 29283,
+    "averageWattConsumption": 11.77642461728395,
+    "maxWattConsumtion": 14.99513,
+    "maxWattPositionIndex": 12,
+    "totalProcessIstantFound": 81,
+    "totalTime": 9.471471309661865,
+    "joules": 111.54006789300065
+  },
+  {
+    "pid": 29443,
+    "averageWattConsumption": 11.919944825581396,
+    "maxWattConsumtion": 15.931625,
+    "maxWattPositionIndex": 15,
+    "totalProcessIstantFound": 86,
+    "totalTime": 9.974795818328857,
+    "joules": 118.89901580092001
+  },
+  {
+    "pid": 29618,
+    "averageWattConsumption": 11.868908586206896,
+    "maxWattConsumtion": 14.968152,
+    "maxWattPositionIndex": 17,
+    "totalProcessIstantFound": 87,
+    "totalTime": 10.259155511856079,
+    "joules": 121.76497894190042
+  },
+  {
+    "pid": 29773,
+    "averageWattConsumption": 11.860670722891566,
+    "maxWattConsumtion": 16.525783,
+    "maxWattPositionIndex": 2,
+    "totalProcessIstantFound": 83,
+    "totalTime": 9.68756890296936,
+    "joules": 114.90106486344345
+  },
+  {
+    "pid": 29933,
+    "averageWattConsumption": 11.792151965517242,
+    "maxWattConsumtion": 15.23782,
+    "maxWattPositionIndex": 8,
+    "totalProcessIstantFound": 87,
+    "totalTime": 10.423736095428467,
+    "joules": 122.91828008573981
+  },
+  {
+    "pid": 30100,
+    "averageWattConsumption": 11.540328714285714,
+    "maxWattConsumtion": 15.728595,
+    "maxWattPositionIndex": 2,
+    "totalProcessIstantFound": 84,
+    "totalTime": 10.285846710205078,
+    "joules": 118.7020521405209
+  },
+  {
+    "pid": 30270,
+    "averageWattConsumption": 11.766855261363636,
+    "maxWattConsumtion": 15.371957,
+    "maxWattPositionIndex": 19,
+    "totalProcessIstantFound": 88,
+    "totalTime": 10.528623580932617,
+    "joules": 123.88878977821422
+  },
+  {
+    "pid": 30421,
+    "averageWattConsumption": 11.744207416666667,
+    "maxWattConsumtion": 15.450933,
+    "maxWattPositionIndex": 15,
+    "totalProcessIstantFound": 84,
+    "totalTime": 9.994021654129028,
+    "joules": 117.3718632327494
+  },
+  {
+    "pid": 30568,
+    "averageWattConsumption": 11.886978093023256,
+    "maxWattConsumtion": 15.308717,
+    "maxWattPositionIndex": 2,
+    "totalProcessIstantFound": 86,
+    "totalTime": 10.173754930496216,
+    "joules": 120.93520198259586
+  },
+  {
+    "pid": 30734,
+    "averageWattConsumption": 11.899086800000001,
+    "maxWattConsumtion": 15.717533,
+    "maxWattPositionIndex": 19,
+    "totalProcessIstantFound": 85,
+    "totalTime": 10.11372709274292,
+    "joules": 120.34411654805966
+  }
+]
