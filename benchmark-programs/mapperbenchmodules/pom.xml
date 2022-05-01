@@ -15,5 +15,6 @@
         <module>jmappermodule</module>
         <module>mapstructmappermodule</module>
         <module>orikamappermodule</module>
+        <module>referencemappermodule</module>
     </modules>
 </project>

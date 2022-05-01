@@ -10,7 +10,7 @@
 
     <mapping>
         <class-a>com.m2iii.mapperbench.model.source.SourceOrder</class-a>
-        <class-b>com.m2iii.mapperbench.model.destination.Order</class-b>
+        <class-b>com.m2iii.mapperbench.model.destination.OrderDTO</class-b>
         <field>
             <a>status</a>
             <b>orderStatus</b>
